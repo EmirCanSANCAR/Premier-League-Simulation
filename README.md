@@ -7,6 +7,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## BackEnd Quick Installation
+
+    composer install
+
+    Create a database called "premier_league_simulation" from a database of MySQL, PostgreSQL, etc.
+
+    php artisan migrate:fresh --seed
+
+    php artisan serve
+    
+## UI Quick Installation
+
+    yarn
+
+    yarn watch
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
