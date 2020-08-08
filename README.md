@@ -18,7 +18,7 @@
 
     php artisan serve
     
-## BackEnd Quick Installation
+## UI Quick Installation
 
     yarn
 
